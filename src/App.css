@@ -1,0 +1,34 @@
+/* @font-face {
+  font-family: "SKYBORI";
+  font-weight: 600;
+  src: url("./fonts/SKYBORI.ttf");
+} */
+
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
+
+* {
+  font-family: "Pretendard";
+}
+
+.App {
+  text-align: center;
+}
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+.Banner {
+  padding-top: 64px;
+  margin-bottom: 100px;
+}
+
+.Notice {
+  width: 90%;
+}
+
+.Footer {
+  height: 40px;
+  width: 90%;
+}
